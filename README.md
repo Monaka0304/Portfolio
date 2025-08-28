@@ -107,7 +107,7 @@ gcc -o LPF LPF.c -lm
 
 このプログラムはキーボードから入力された数値を挿入・表示し、二分探索木を作成するプログラム。
 
-** -[二分探索木の規則](https://medium-company.com/%E4%BA%8C%E5%88%86%E6%8E%A2%E7%B4%A2%E6%9C%A8/)**
+ -[二分探索木の規則](https://medium-company.com/%E4%BA%8C%E5%88%86%E6%8E%A2%E7%B4%A2%E6%9C%A8/)
 
 **<ins>プログラムの概要</ins>**
 
