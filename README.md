@@ -128,6 +128,7 @@ gcc -o LPF LPF.c -lm
       - 再帰的にノードを解放してメモリのリークを防止
 
 **<ins>実行方法</ins>**
+
 1,　コンパイル
 ```bash
 gcc -o work13-1 work13-1.c 
