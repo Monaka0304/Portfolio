@@ -87,7 +87,7 @@ python LPF.py
    - 振幅特性 `H_amp[k]` → `amplitude.txt`  
    - 位相特性 `H_phase[k]` → `phase.txt`  
 
-<ins>※グラフを描画する際はgunplotなどの外部の描画ツールを使用する必要がある</ins>
+<ins>※グラフを描画する際は**gunplot**などの外部の描画ツールを使用する必要がある</ins>
 
 **<ins>実行方法</ins>**
 
