@@ -49,7 +49,7 @@
 
 **<ins>実行方法</ins>**
 
-1. 必要なライブラリをインストール
+1, 必要なライブラリをインストール
 ```bash
 pip install numpy matplotlib
 ```
@@ -98,7 +98,7 @@ python LPF.py
 gcc -o LPF LPF.c -lm
 ```
 
-2,　実行
+2,　プログラムを実行
 ```bash
 ./LPF
 ```
@@ -134,7 +134,7 @@ gcc -o LPF LPF.c -lm
 gcc -o work13-1 work13-1.c 
 ```
 
-2,実行
+2,　プログラムを実行
 ```bash
 ./work13-1
 ```
