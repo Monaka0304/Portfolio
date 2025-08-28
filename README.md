@@ -2,7 +2,7 @@
 
 このプログラムは **FIR 低域通過フィルタ（Low-Pass Filter, LPF）** を設計し、そのインパルス応答・振幅特性・位相特性を計算・可視化するものです。
 
-**- Pythonを用いる場合**
+**- Pythonを用いる場合**(#Pythonを用いる場合)
 
 **- C言語を用いる場合**
 
@@ -48,6 +48,6 @@ pip install numpy matplotlib
 python LPF.py
 ```
 
-3,実行結果は <ins>LPF_result.png</ins> に保存
+
 
 
