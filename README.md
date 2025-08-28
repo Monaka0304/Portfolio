@@ -48,6 +48,6 @@ pip install numpy matplotlib
 python LPF.py
 ```
 
-3,実行結果は<ins>LPF_result.png<ins>に保存
+3,実行結果は <ins>LPF_result.png<ins> に保存
 
 
